@@ -669,6 +669,9 @@ https://worldcup.sfg.io/teams
 * https://apps.lametric.com/apps/fifa_world_cup_2018/6624
 (Display the latest score of the current match(es), or the recent and next matches on a [LaMetric Time](https://lametric.com) device)
 
+* https://telegram.me/rusia2018_bot
+(Telegram bot in Spanish language, provides match info and top scorers. Just chat with @rusia2018_bot. Timezone is GMT-5 - Mexico, Panama, Bogota, Lima)
+
 ## PROJECTS USING THIS API IN 2014
 
 * http://alexb.ninja/wc
